@@ -51,7 +51,7 @@
     "socket.io-client": "^2.0.2",
     "sticky-session": "^0.1.0",
     "uuid": "*",
-    "snyk": "^1.46.0"
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "chai": "^1.9.1",
